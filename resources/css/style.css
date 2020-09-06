@@ -1,4 +1,8 @@
-
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /* HEADINGS */
 
 .header {
@@ -20,10 +24,4 @@
 .link {
     color: aquamarine;
     font-size: 16px;
-}
-
-body {
-    background-color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
