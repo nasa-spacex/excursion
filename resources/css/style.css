@@ -1,11 +1,21 @@
+
+/* HEADINGS */
+
 .header {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
+.header-secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.sub-header {
+    font-size: 21px;
+    color: gray;
 
 .link {
     color: aquamarine;
