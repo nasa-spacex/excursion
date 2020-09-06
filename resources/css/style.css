@@ -6,12 +6,15 @@
     text-align: center;
 }
 
-.page_color {
-    background-color: black
-}
 
 .link {
     color: aquamarine;
     text-decoration: underline;
     font-size: 16px;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
